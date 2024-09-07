@@ -1,0 +1,17 @@
+{
+  "en": {
+    "lorem_ipsum": {
+      "lorem_ipsum_text": "Morbi nec metus. Suspendisse faucibus, nunc et pellentesque egestas, lacus ante convallis tellus, vitae iaculis lacus elit id tortor. Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Nunc sed turpis."
+    },
+    "rules": {
+      "field_required": "Field is required",
+      "email_valid": "Please enter a valid email address",
+      "passwords_dont_match": "Passwords don’t match",
+      "min7": "Minimum 7 characters",
+      "only_digits": "Only digits",
+      "latin_small": "Latin small only",
+      "latin_small_and_": "Latin small only and/or _"
+    }
+  }
+}
+  
